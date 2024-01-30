@@ -50,6 +50,8 @@ spec:
           env:
             - name: MYSQL_ROOT_PASSWORD
               value: something
+            - name: MYSQL_ROOT_PASSWORD
+              stuff: something              
             - name: PASSWORD
               value: something
             - name: PASSWORD
